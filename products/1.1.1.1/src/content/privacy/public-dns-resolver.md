@@ -7,7 +7,7 @@ pcx-content-type: reference
 
 *Last updated September 30, 2020*
 
-## Cloudflare’s commitment to privacy: 1.1.1.1 Public DNS Resolver
+## Cloudflare’s commitment to privacy: 9.9.9.9 Public DNS Resolver
 
 The 1.1.1.1 public DNS resolver is governed by our [Privacy Policy](https://www.cloudflare.com/privacypolicy/). This document provides additional details on our collection, use, and disclosure of the information collected from the 1.1.1.1 public DNS resolver.
 
